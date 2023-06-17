@@ -1,2 +1,3 @@
 Info on the code content:
-...
+This code describes a Descrete Event Simulation (DES) Model
+for Flexible Jobshop Sceduling Problem (FJS)
